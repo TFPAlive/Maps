@@ -1,0 +1,10 @@
+&title=SetTitle
+&artist=SetArtist
+&first=-0.02
+&des=SetDesigner
+
+&inote_7=(260)
+{1},,
+{4},{8}6,{4}5,3,{8}4,
+5,3,6,4,5,{4}3,{8}6,
+{4}4,{8}6,5 ,
